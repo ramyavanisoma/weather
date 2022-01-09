@@ -1,0 +1,39 @@
+body{
+  background-image:url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size:cover;
+}
+#app{
+  text-align:center;
+  color:white;
+  font-style: italic;
+}
+#heading{
+  
+  font-size:60px;
+  margin-bottom:5%;
+  margin-top:3%;
+}
+.name{
+  font-size:20px;
+}
+.temp{
+   font-size:20px;
+}
+#tempUnit{
+  cursor:pointer;
+  color:#006dcc;
+}
+#tempUnit:hover{
+  color:#005096;
+}
+#description{
+  font-size:20px;
+}
+#icon{
+  font-size:20px;
+  margin-bottom:20px;
+}
+footer{
+  color:white;
+  text-align:center;
+}
